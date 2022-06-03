@@ -20,7 +20,6 @@ public class BaseTest {
 	public static FileReader fr;
 	public static Properties loc = new Properties();
 	public static FileReader fr1;
-
 	
 	@BeforeMethod
 	public void setUp() throws IOException {
